@@ -1,7 +1,7 @@
 # Global Analysis of Universities' Success
 - Comprehensive global analysis of university success utilizing Power BI, Excel, and SQL integrating data from diverse ranking systems and criteria.
 
-Screenshot 2024-04-26 173935
+![image](https://github.com/user-attachments/assets/c15419b7-2d7d-4a10-835f-71ebc0f8665f)
 
 # How to Access Project Materials
 
